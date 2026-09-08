@@ -1,2 +1,30 @@
-Last updated: 2026-09-09 03:12:55 WIB
-Last updated: 2026-09-09 03:14:17 WIB
+# Web-Sistem-Monitoring-Absensi-Pegawai-Fingerspot
+
+
+
+## 📋 Overview
+
+This repository contains **759 files** and is built with the following technologies:
+
+PHP
+
+## 🚀 Quick Start
+
+```bash
+php -S localhost:8000
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+PHP
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-09 04:17:41 WIB*
